@@ -1,0 +1,4 @@
+Skip to content.txt
+# python cache
+__pycache__/
+*.pyc
